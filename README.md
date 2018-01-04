@@ -1,3 +1,5 @@
+## Project Details
+
 This repository contains code for the assignment: "Large scale data processing using Map-Reduce".
 The assignment asked us to perform 3 activities:
 1. Calculate word count on a corpus of downloaded tweets (arbitrary topic: "Donald Trump") and map the word counts on a word cloud.
